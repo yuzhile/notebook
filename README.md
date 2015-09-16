@@ -4,3 +4,5 @@ text recognition matril
 http://francescopochetti.com/text-recognition-natural-scenes/
 http://www.robots.ox.ac.uk/~vgg/research/text/
 http://jeffdonahue.com/lrcn/
+
+https://bitbucket.org/jaderberg/eccv2014_textspotting
