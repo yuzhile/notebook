@@ -12,6 +12,7 @@ http://www.csdn.net/article/2015-01-28/2823747
 
 cnn_visual
 https://github.com/guruucsd/CNN_visualization
+https://github.com/smajida/Deep_Inside_Convolutional_Networks
 
 
 cnn materal
