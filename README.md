@@ -19,5 +19,8 @@ cnn materal
 http://gitxiv.com/posts/XfyFioDSPShmNgv7W/end-to-end-people-detection-in-crowded-scenes
 
 http://gitxiv.com/
-
 http://cs.stanford.edu/people/karpathy/
+
+cnn visual
+
+http://cs231n.github.io/understanding-cnn/
