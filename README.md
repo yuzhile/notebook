@@ -24,3 +24,7 @@ http://cs.stanford.edu/people/karpathy/
 cnn visual
 
 http://cs231n.github.io/understanding-cnn/
+
+
+caffe code understanding:
+https://www.quora.com/How-do-we-read-the-source-code-of-Caffe
