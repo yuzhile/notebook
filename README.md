@@ -7,6 +7,9 @@ http://jeffdonahue.com/lrcn/
 
 https://bitbucket.org/jaderberg/eccv2014_textspotting
 
+captcha
+http://scraping.pro/8-best-captcha-solving-services-and-tools/
+
 RNN:
 http://www.csdn.net/article/2015-01-28/2823747
 
