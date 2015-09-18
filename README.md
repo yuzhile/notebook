@@ -25,6 +25,8 @@ cnn visual
 
 http://cs231n.github.io/understanding-cnn/
 
+deep learning meaterial
+http://news.startup.ml
 
 caffe code understanding:
 https://www.quora.com/How-do-we-read-the-source-code-of-Caffe
