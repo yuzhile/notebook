@@ -30,3 +30,8 @@ http://news.startup.ml
 
 caffe code understanding:
 https://www.quora.com/How-do-we-read-the-source-code-of-Caffe
+
+
+machine learning reference:
+http://suanfazu.com/t/topic/15
+http://ml.memect.com/
