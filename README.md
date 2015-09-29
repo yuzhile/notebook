@@ -38,3 +38,17 @@ http://ml.memect.com/
 
 computer vison turial
 http://zhangliliang.com/
+
+
+
+data set:
+human:
+
+http://www.researchgate.net/post/What_are_some_datasets_for_indoor_outdoor_image_classification2
+
+https://www.cs.utexas.edu/~chaoyeh/web_action_data/dataset_list.html
+
+https://www.cs.utexas.edu/~chaoyeh/web_action_data/dataset_list.html
+http://www.cvpapers.com/datasets.html
+
+https://www.cs.utexas.edu/~chaoyeh/web_action_data/dataset_list.html
