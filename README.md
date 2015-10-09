@@ -25,6 +25,8 @@ cnn visual
 
 http://cs231n.github.io/understanding-cnn/
 
+http://colah.github.io/
+
 deep learning meaterial
 http://news.startup.ml
 
