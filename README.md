@@ -58,6 +58,6 @@ http://www.cvpapers.com/datasets.html
 https://www.cs.utexas.edu/~chaoyeh/web_action_data/dataset_list.html
 
 ## data competion
--> https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit
--> https://www.kaggle.com/c/amazon-employee-access-challenge
--> http://blog.kaggle.com/2015/05/07/profiling-top-kagglers-kazanovacurrently-2-in-the-world/
+>- https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit
+>- https://www.kaggle.com/c/amazon-employee-access-challenge
+>- http://blog.kaggle.com/2015/05/07/profiling-top-kagglers-kazanovacurrently-2-in-the-world/
