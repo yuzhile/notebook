@@ -7,6 +7,10 @@ http://jeffdonahue.com/lrcn/
 
 https://bitbucket.org/jaderberg/eccv2014_textspotting
 
+#math matrial
+http://stanford.edu/class/ee364a/
+
+
 RNN:
 http://www.csdn.net/article/2015-01-28/2823747
 
