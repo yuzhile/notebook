@@ -52,6 +52,10 @@ human:
 
 http://www.researchgate.net/post/What_are_some_datasets_for_indoor_outdoor_image_classification2
 
+http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/
+http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/
+http://blog.csdn.net/kezunhai/article/details/38318805
+http://liangzheng.com.cn/
 
 
 https://www.cs.utexas.edu/~chaoyeh/web_action_data/dataset_list.html
