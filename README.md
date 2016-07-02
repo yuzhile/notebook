@@ -18,8 +18,10 @@ cnn_visual
 https://github.com/guruucsd/CNN_visualization
 https://github.com/smajida/Deep_Inside_Convolutional_Networks
 
+## detection
+http://research.milanton.de/#publicationsion
 
-cnn materal
+## cnn materal
 http://gitxiv.com/posts/XfyFioDSPShmNgv7W/end-to-end-people-detection-in-crowded-scenes
 
 http://gitxiv.com/
